@@ -1,0 +1,39 @@
+tr
+{
+	height: 45px;
+}
+td
+{
+	width:100px;
+}
+.btn
+{
+    width:55px;
+}
+div#res-box {
+    padding-right: 18px;
+    padding-top: 10%;
+    padding-left: 18px;
+}
+table 
+{
+    border-spacing: 0;
+    border-collapse: collapse;
+    position: relative;
+    right: -30px;
+}
+.box
+{
+    background-color: #3d4543;
+    height: 360px;
+    width: 290px;
+    margin: auto;   
+    border-radius: 10px;
+    /*position: relative;
+    top: 80px;
+    left: 40%;*/
+} 
+.text-center {
+    text-align: center;
+    text-transform: capitalize;
+    }
